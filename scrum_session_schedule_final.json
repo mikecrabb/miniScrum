@@ -1,0 +1,74 @@
+{
+    "sessions": [
+        {
+            "duration": 30,
+            "activity": "Setup and Product Backlog Development",
+            "description": "<p>Use this time to organize your groups, read through the brief for the session and delegate roles (and sub teams if you think you will need them)</p><p>Start to work on creating your backlog with this being a mixture of usser stories and more informal notes</p>"
+        },
+        {
+            "duration": 15,
+            "activity": "Sprint 1 Planning",
+            "description": "<p>Finalise any stories that you are taking into the sprint to carry out<p><p>Delegate stories to individuals / groups</p>"
+        },
+        {
+            "duration": 30,
+            "activity": "Sprint 1 - Part 1",
+            "description": "<p><strong>Development Team</strong>: Do the work</p><p><strong>Scrum Master</strong>: Make sure people are able to get on with their tasks, help out where needed</p><p><strong>Product Owner</strong>: Develop mre stories from the brief. Refine stories not brought into sprints</p>"
+        },
+        {
+            "duration": 15,
+            "activity": "Sprint 1 - Scrum 1",
+            "description": "<p class='alert alert-warning'>This should be led by your ScrumMaster</p><p>Regroup as a team and catchup on what everyone has been doing</p><p>What did you do, what did you not do, what is getting in your way?</p><p>What user stories have been completed?</p>"
+        },
+        {
+            "duration": 30,
+            "activity": "Sprint 1 - Part 2",
+            "description": "<p><strong>Development Team</strong>: Do the work</p><p><strong>Scrum Master</strong>: Make sure people are able to get on with their tasks, help out where needed</p><p><strong>Product Owner</strong>: Develop mre stories from the brief. Refine stories not brought into sprints</p>"
+        },
+        {
+            "duration": 15,
+            "activity": "Sprint 1 Review",
+            "description": "<p class='alert alert-warning'>This should be led by your Product Owner</p><p>Come up with a presentation that would be used in a traditional sprint review. Remember this is not a product demo</p>"
+        },
+        {
+            "duration": 15,
+            "activity": "Sprint 1 Retrospective",
+            "description": "<p class='alert alert-warning'>This should be led by your Product Owner</p><p>As a team think about what went well in the sprintt. What didnt go so well? What could you do differently in the next one?</p>"
+        },
+        {
+            "duration": 15,
+            "activity": "Sprint 2 Planning",
+            "description": "<p>Finalise any stories that you are taking into the sprint to carry out<p><p>Delegate stories to individuals / groups</p>"
+        },
+        {
+            "duration": 30,
+            "activity": "Sprint 2 - Part 1",
+            "description": "<p><strong>Development Team</strong>: Do the work</p><p><strong>Scrum Master</strong>: Make sure people are able to get on with their tasks, help out where needed</p><p><strong>Product Owner</strong>: Develop mre stories from the brief. Refine stories not brought into sprints</p>"
+        },
+        {
+            "duration": 30,
+            "activity": "Lunch and Contingency Time",
+            "description": "<p>Well deserved break time</p><p>OR</p><p>A time to catch up</p>"
+        },
+        {
+            "duration": 15,
+            "activity": "Sprint 2 - Scrum 1",
+            "description": "<p class='alert alert-warning'>This should be led by your ScrumMaster</p><p>Regroup as a team and catchup on what everyone has been doing</p><p>What did you do, what did you not do, what is getting in your way?</p><p>What user stories have been completed?</p>"
+        },
+        {
+            "duration": 30,
+            "activity": "Sprint 2 - Part 2",
+            "description": "<p><strong>Development Team</strong>: Do the work</p><p><strong>Scrum Master</strong>: Make sure people are able to get on with their tasks, help out where needed</p><p><strong>Product Owner</strong>: Develop mre stories from the brief. Refine stories not brought into sprints</p>"
+        },
+        {
+            "duration": 15,
+            "activity": "Sprint 2 Review",
+            "description": "<p class='alert alert-warning'>This should be led by your Product Owner</p><p>Come up with a presentation that would be used in a traditional sprint review. Remember this is not a product demo</p>"
+        },
+        {
+            "duration": 15,
+            "activity": "Sprint 2 Retrospective",
+            "description": ""
+        }
+    ]
+}
