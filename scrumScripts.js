@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
     // Fetch the JSON file and load it into the 'sessions' variable
-    fetch('houseOfCard.json')
+    fetch('scrum_session_schedule_final.json')
         .then(response => response.json())
         .then(data => {
             sessions = data.sessions;
